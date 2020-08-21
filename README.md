@@ -1,2 +1,2 @@
-# SnackSystem
+# SnackSystem (과자 정보 관리 시스템)
 2학년 1학기 C++ 수업 기말 프로젝트 
