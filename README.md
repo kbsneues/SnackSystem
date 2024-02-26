@@ -4,6 +4,9 @@
 C++를 이용해서 과자 정보 관리 시스템을 구현하였습니다
 </div>
 
+<div>
+<h2> 🧑🏻‍💻결과🧑🏻‍💻 </h2>
+
 <h3> (1) 처음에 상품 등록을 하고 상품 조회를 했을 때   </h3>
 <img src = "https://github.com/kbsneues/SnackSystem/assets/66941439/b6a7fac1-75d8-4d62-9d6f-6d83bcaaddd1" />
 
@@ -24,3 +27,4 @@ C++를 이용해서 과자 정보 관리 시스템을 구현하였습니다
 
 <h3> (7) 포장 형태 부분에서 1번, 2번이 아닌 다른 숫자를 입력했을 때 (시스템은 종료되지 않고 반복된다)    </h3>
 <img src = "https://github.com/kbsneues/SnackSystem/assets/66941439/7d2e1d74-efa1-4abd-8eed-dcd858d01e08" />
+</div>
